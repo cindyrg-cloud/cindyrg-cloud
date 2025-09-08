@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repository will act as a record keeper of all the work completed and performed during AD688 during the 2025 Fall semester. 👋
 
 <!--
 **cindyrg-cloud/cindyrg-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
